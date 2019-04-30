@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvrtrial.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\steam-vr-trial\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "steam-vr-trial [Testing]"
+        }
+      }
+    }
+  ]
+}
